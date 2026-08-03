@@ -1,9 +1,129 @@
 [
   {
+    "title": "Agensi.io \u2014 paid SKILL.md marketplace with MCP live access ($9/mo Pro)",
+    "cat": "Marketplace",
+    "venture": "Passive/Digital",
+    "desc": "Agensi is currently the only marketplace combining paid skill sales (creators keep 80%), an 8-point security scan on every submission, and a Pro MCP tier ($9/mo) that lets agents discover and load skills from the live catalog automatically without manual downloads. The comparison guide was updated 3 days ago (Jul 31, 2026). A viable storefront for packaging and selling venture-specific skill stacks.",
+    "link": "https://www.agensi.io/skills",
+    "date": "2026-08-03",
+    "source": "auto",
+    "scanned_at": "2026-08-03T12:16:42.382742+00:00"
+  },
+  {
+    "title": "Epinium \u2014 'Claude Skills for Ecommerce' deep-dive (Jul 27 2026)",
+    "cat": "Tool / MCP",
+    "venture": "iVend",
+    "desc": "Published ~1 week ago, this Epinium post details using Claude + MCP to connect live inventory databases and CRM systems for real-time catalog updates, ad-spend reallocation, and autonomous store operations \u2014 including navigating legacy supplier interfaces via computer use. Directly maps to iVend's retail/vending ops layer and the #PDPWriter Skill pattern for product catalog management.",
+    "link": "https://epinium.com/en/blog/claude-skills-for-ecommerce/",
+    "date": "2026-08-03",
+    "source": "auto",
+    "scanned_at": "2026-08-03T12:16:42.382742+00:00"
+  },
+  {
+    "title": "claudeskillsmarket.com \u2014 37+ free community skills marketplace",
+    "cat": "Marketplace",
+    "venture": "General",
+    "desc": "claudeskillsmarket.com is an independent marketplace listing 37+ free SKILL.md community skills with a stated focus on skill engineering education and business deployment. No new individual skill additions were confirmable within the strict 7-day window from public search results, but the site remains actively indexed and referenced.",
+    "link": "https://www.claudeskillsmarket.com",
+    "date": "2026-08-03",
+    "source": "auto",
+    "scanned_at": "2026-08-03T12:16:42.382742+00:00"
+  },
+  {
+    "title": "skills.pawgrammer.com \u2014 288+ free community skills directory",
+    "cat": "Marketplace",
+    "venture": "General",
+    "desc": "skills.pawgrammer.com currently lists 288+ free community-curated Claude skills organized by domain (dev, productivity, marketing). The marketing skills pack (33 skills for SaaS including SEO, email, CRO, growth ops) and the Codex Marketing Skills entry are relevant for brand-building across One Life or Mandisalab. No new skills confirmed added in the last 7 days specifically, but the site is actively maintained.",
+    "link": "https://skills.pawgrammer.com",
+    "date": "2026-08-03",
+    "source": "auto",
+    "scanned_at": "2026-08-03T12:16:42.382742+00:00"
+  },
+  {
+    "title": "ryandoser.com \u2014 'Claude AI Side Hustle' post (Jul 24 2026)",
+    "cat": "Monetization play",
+    "venture": "Passive/Digital",
+    "desc": "Posted Jul 24, 2026 \u2014 a practitioner (non-technical marketing agency operator) documents earning $5k+ in 50 days selling a $99 Claude Code Skills Stack as a one-time digital download with no hosting or login infrastructure, using only organic traffic. The exact passive/digital income loop worth replicating with domain-specific skill stacks.",
+    "link": "https://ryandoser.com/claude-ai-side-hustle/",
+    "date": "2026-08-03",
+    "source": "auto",
+    "scanned_at": "2026-08-03T12:16:42.382742+00:00"
+  },
+  {
+    "title": "agent37.com/blog \u2014 '30 Skills Worth Hosting and Selling' (Jul 2026)",
+    "cat": "Monetization play",
+    "venture": "General",
+    "desc": "Published ~2 weeks ago, this Agent37 post catalogs 30 marketplace-ready Claude skills across legal, ops, finance, data, engineering, research, and sales \u2014 including a Vendor Contract Risk Scanner and Policy Impact Assessor explicitly flagged as suitable for operations and compliance teams. Directly useful for identifying which iVend/One Life ops workflows are worth productizing.",
+    "link": "https://www.agent37.com/blog/best-claude-skills-in-2026-30-skills-worth-hosting-selling",
+    "date": "2026-08-03",
+    "source": "auto",
+    "scanned_at": "2026-08-03T12:16:42.382742+00:00"
+  },
+  {
+    "title": "agent37.com/blog \u2014 'Share Claude Skills with Clients' consultant playbook (Jul 2026)",
+    "cat": "Monetization play",
+    "venture": "Passive/Digital",
+    "desc": "Published ~2 weeks ago, this Agent37 guide covers white-label, multi-tenant dashboard delivery of Claude skills to clients \u2014 explicitly framing hosted access (vs. selling ZIP files) as the IP-protecting, subscription-ready path. Includes a Starter Kit fork model for agencies serving multiple clients.",
+    "link": "https://www.agent37.com/blog/how-to-share-claude-skills-with-clients",
+    "date": "2026-08-03",
+    "source": "auto",
+    "scanned_at": "2026-08-03T12:16:42.382742+00:00"
+  },
+  {
+    "title": "agent37.com/blog \u2014 'Monetize Claude Code Skills' (updated ~Jul 20 2026)",
+    "cat": "Monetization play",
+    "venture": "Passive/Digital",
+    "desc": "Agent37's blog post on monetizing Claude Code skills (marked ~2 weeks old as of Aug 3) lays out the hosted-access model: build a skill, host it on Agent37 at $3.99/mo, sell access under your own brand keeping 100% of revenue, with no billing system to build. Directly actionable for packaging domain-specific skills (e.g., vending ops, CPG label copy) as recurring digital income.",
+    "link": "https://www.agent37.com/blog/monetize-claude-code-skills",
+    "date": "2026-08-03",
+    "source": "auto",
+    "scanned_at": "2026-08-03T12:16:42.382742+00:00"
+  },
+  {
+    "title": "SkillsMP \u2014 Socratic Teaching Skill (Aug 1 2026)",
+    "cat": "Skill",
+    "venture": "Passive/Digital",
+    "desc": "A Socratic method teaching skill for Claude Code (180 stars) was updated Aug 1, 2026 on SkillsMP. It guides users to discover answers through questioning rather than direct answers \u2014 a packagable instructional format with clear digital-product monetization potential for training or onboarding use cases.",
+    "link": "https://github.com/topics/skillsmp",
+    "date": "2026-08-03",
+    "source": "auto",
+    "scanned_at": "2026-08-03T12:16:42.382742+00:00"
+  },
+  {
+    "title": "SkillsMP \u2014 Vast.ai Python/CLI client skill (Aug 1 2026)",
+    "cat": "Tool / MCP",
+    "venture": "Passive/Digital",
+    "desc": "A new skill wrapping the Vast.ai Python and CLI API client was updated on Aug 1, 2026 and indexed on SkillsMP (208 stars). Relevant for passive/digital income builders who run GPU-heavy AI workloads cost-efficiently \u2014 Vast.ai is a low-cost GPU marketplace, and this skill automates provisioning/management from inside a Claude agent.",
+    "link": "https://github.com/topics/skillsmp",
+    "date": "2026-08-03",
+    "source": "auto",
+    "scanned_at": "2026-08-03T12:16:42.382742+00:00"
+  },
+  {
+    "title": "SkillsMP \u2014 openclaw/openclaw release-prep skill (Jul 26 2026)",
+    "cat": "Tool / MCP",
+    "venture": "Passive/Digital",
+    "desc": "SkillsMP's recent-sorted index shows a Jul 26, 2026 update to the openclaw/openclaw release-prep skill (384k installs), covering stable/beta/extended-stable release automation including changelog generation, release notes, publish commands, and artifact management. Worth tracking as a template for packaging and releasing versioned digital skill products.",
+    "link": "https://skillsmp.com/search",
+    "date": "2026-08-03",
+    "source": "auto",
+    "scanned_at": "2026-08-03T12:16:42.382742+00:00"
+  },
+  {
+    "title": "ComposioHQ/awesome-claude-skills \u2014 updated Jul 24 2026",
+    "cat": "Skill",
+    "venture": "General",
+    "desc": "The ComposioHQ curated list of Claude Skills (71k+ stars, 42 skills, 106k installs) recorded its most recent update on Jul 24, 2026, keeping it within the 7-day window. Top installs include tailored-resume-generator, content-research-writer, and changelog-generator; the repo also lists MCP Builder and lean-ctx for context compression \u2014 directly useful for ops workflow standardization.",
+    "link": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "date": "2026-08-03",
+    "source": "auto",
+    "scanned_at": "2026-08-03T12:16:42.382742+00:00"
+  },
+  {
     "title": "MCP-connected ops stack pattern",
     "cat": "Tool / MCP",
     "venture": "iVend",
-    "desc": "Studios are wiring Claude Code to Linear/Notion/Slack via MCP so it pulls data and ships updates on its own — same pattern could sit on top of the CS ticket tool + sales pipeline sheet already built for iVend.",
+    "desc": "Studios are wiring Claude Code to Linear/Notion/Slack via MCP so it pulls data and ships updates on its own \u2014 same pattern could sit on top of the CS ticket tool + sales pipeline sheet already built for iVend.",
     "link": "",
     "date": "2026-08-03",
     "source": "manual"
