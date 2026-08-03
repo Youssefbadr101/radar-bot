@@ -1,5 +1,125 @@
 [
   {
+    "title": "claudeskillsmarket.com \u2014 37+ free community skills directory (active)",
+    "cat": "Marketplace",
+    "venture": "General",
+    "desc": "claudeskillsmarket.com lists 37+ free community SKILL.md workflows with a daily news feed and skill-engineering guides, positioning itself as an SMB-focused free alternative to paid marketplaces. No new skills dated within the strict 7-day window were surfaced, but the site is actively maintained and worth monitoring for ops/retail submissions.",
+    "link": "https://www.claudeskillsmarket.com/",
+    "date": "2026-08-03",
+    "source": "auto",
+    "scanned_at": "2026-08-03T19:47:38.271581+00:00"
+  },
+  {
+    "title": "SkillsMP MCP Server \u2014 semantic skill search & install via MCP",
+    "cat": "Tool / MCP",
+    "venture": "General",
+    "desc": "An MCP server (skillsmp-mcp-server on npm/GitHub by anilcancakir) lets any AI agent semantically search, discover, and one-command install skills from SkillsMP's 1.6M+ catalog into Claude Code, Cursor, Codex, and others. Eliminates manual skill discovery and wires the marketplace directly into an agentic ops workflow.",
+    "link": "https://mcpservers.org/servers/anilcancakir/skillsmp-mcp-server",
+    "date": "2026-08-03",
+    "source": "auto",
+    "scanned_at": "2026-08-03T19:47:38.271581+00:00"
+  },
+  {
+    "title": "motiful/product-shots \u2014 E-commerce product visual skill pack (GitHub)",
+    "cat": "Skill",
+    "venture": "One Life",
+    "desc": "Open-source Claude Code skill set (submitted to UCWS Singapore Hackathon 2026) that turns one product photo into a full Amazon/Shopify/TikTok Shop visual package \u2014 hero shots, A+ detail pages, multi-angle, social, and ad creatives. Directly applicable to a healthy-snacking CPG brand launching on marketplace channels.",
+    "link": "https://github.com/motiful/product-shots",
+    "date": "2026-08-03",
+    "source": "auto",
+    "scanned_at": "2026-08-03T19:47:38.271581+00:00"
+  },
+  {
+    "title": "Agensi \u2014 2,000 skills / 3,000 users milestone (July 9, 2026)",
+    "cat": "Marketplace",
+    "venture": "Passive/Digital",
+    "desc": "Agensi crossed 2,000 skills, 3,000 registered users, and 50,000 monthly visitors three months after launch (announced July 9, 2026), backed by Antler. It is currently the only marketplace with creator payments (80/20 split), security scanning, and live MCP delivery \u2014 making it the primary venue for selling skills as a product.",
+    "link": "https://www.agensi.io/",
+    "date": "2026-08-03",
+    "source": "auto",
+    "scanned_at": "2026-08-03T19:47:38.271581+00:00"
+  },
+  {
+    "title": "Agensi \u2014 Subscription Skills via MCP launched June 30, 2026",
+    "cat": "Monetization play",
+    "venture": "Passive/Digital",
+    "desc": "Agensi (agensi.io) launched subscription pricing for SKILL.md skills on June 30, 2026: creators earn recurring revenue, subscribers always receive the latest version delivered live via MCP with no manual re-install. This is the first marketplace model enabling true passive recurring income from a Claude skill.",
+    "link": "https://www.agensi.io/learn/subscription-skills-launch",
+    "date": "2026-08-03",
+    "source": "auto",
+    "scanned_at": "2026-08-03T19:47:38.271581+00:00"
+  },
+  {
+    "title": "agent37.com/blog \u2014 \"Best Claude Skills: 30 Worth Hosting and Selling\" (July 2026)",
+    "cat": "Monetization play",
+    "venture": "Passive/Digital",
+    "desc": "Published ~2 weeks ago; identifies 30 marketplace-ready Claude skills across legal, ops, finance, sales, and data workflows stable enough to host and charge for. The ops and sales categories are directly relevant to iVend/One Life workflow packaging.",
+    "link": "https://www.agent37.com/blog/best-claude-skills-in-2026-30-skills-worth-hosting-selling",
+    "date": "2026-08-03",
+    "source": "auto",
+    "scanned_at": "2026-08-03T19:47:38.271581+00:00"
+  },
+  {
+    "title": "agent37.com/blog \u2014 \"How to Share Claude Skills with Clients\" (July 2026)",
+    "cat": "Monetization play",
+    "venture": "Passive/Digital",
+    "desc": "Published ~2 weeks ago on agent37.com, this consultant-delivery playbook covers white-label multi-tenant dashboards, hosted skill access (clients never get source files), and delivery packets for paying clients. Directly maps to selling packaged Claude skills as a passive-income product or retainer service.",
+    "link": "https://www.agent37.com/blog/how-to-share-claude-skills-with-clients",
+    "date": "2026-08-03",
+    "source": "auto",
+    "scanned_at": "2026-08-03T19:47:38.271581+00:00"
+  },
+  {
+    "title": "agent37.com/blog \u2014 \"Best AI Model for OpenClaw\" (July 2026)",
+    "cat": "Tool / MCP",
+    "venture": "Passive/Digital",
+    "desc": "Published ~5 days ago (ca. July 29, 2026), this agent37.com blog post benchmarks OpenRouter models by real 30-day OpenClaw token usage and cost, with ranked pricing data. Directly actionable for choosing the cheapest always-on agentic backend for a passive digital income stack.",
+    "link": "https://www.agent37.com/blog/best-ai-models-for-openclaw",
+    "date": "2026-08-03",
+    "source": "auto",
+    "scanned_at": "2026-08-03T19:47:38.271581+00:00"
+  },
+  {
+    "title": "GitHub anthropic-skills topic \u2014 docx CLI tool updated Aug 3, 2026",
+    "cat": "Tool / MCP",
+    "venture": "One Life",
+    "desc": "A 164-star TypeScript CLI for AI agents (Claude, Codex) to read, edit, and comment on .docx files with full format fidelity was updated August 3, 2026 under the anthropic-skills GitHub topic. Directly useful for generating CPG product spec sheets, import compliance documents, or franchise ops manuals without leaving the agent.",
+    "link": "https://github.com/topics/anthropic-skills?l=typescript",
+    "date": "2026-08-03",
+    "source": "auto",
+    "scanned_at": "2026-08-03T19:47:38.271581+00:00"
+  },
+  {
+    "title": "SkillsMP \u2014 OpenClaw release-automation skills updated July 22-26, 2026",
+    "cat": "Tool / MCP",
+    "venture": "General",
+    "desc": "Multiple OpenClaw skills in the openclaw/openclaw repo (384k stars) were updated on SkillsMP between July 22-26, 2026, covering stable/beta/nightly release automation, branch management, changelog generation, and CI artifact publishing. Directly applicable for automating any software ops or vending-tech release pipeline.",
+    "link": "https://skillsmp.com/search",
+    "date": "2026-08-03",
+    "source": "auto",
+    "scanned_at": "2026-08-03T19:47:38.271581+00:00"
+  },
+  {
+    "title": "SkillsMP \u2014 vercel-react-best-practices listed 2026-07-24",
+    "cat": "Skill",
+    "venture": "Passive/Digital",
+    "desc": "SkillsMP indexed vercel-labs/agent-skills vercel-react-best-practices on 2026-07-24 (29.5k stars); provides React/Next.js performance optimization rules from Vercel Engineering, triggering on bundle optimization and data-fetching tasks. Useful if you are building a storefront or passive SaaS layer on Next.js.",
+    "link": "https://skillsmp.com/",
+    "date": "2026-08-03",
+    "source": "auto",
+    "scanned_at": "2026-08-03T19:47:38.271581+00:00"
+  },
+  {
+    "title": "anthropics/skills \u2014 docx skill updated July 17, 2026",
+    "cat": "Skill",
+    "venture": "General",
+    "desc": "Anthropic's official github.com/anthropics/skills repo updated the docx skill on 2026-07-17 (164k stars on SkillsMP); it handles .docx creation, editing, tracked changes, tables, images and headers/footers via docx-js and pandoc. Relevant for any ops workflow that generates branded reports, purchase orders, or vendor contracts at scale.",
+    "link": "https://github.com/anthropics/skills/tree/main/skills/docx",
+    "date": "2026-08-03",
+    "source": "auto",
+    "scanned_at": "2026-08-03T19:47:38.271581+00:00"
+  },
+  {
     "title": "Agensi.io \u2014 paid SKILL.md marketplace with MCP live access ($9/mo Pro)",
     "cat": "Marketplace",
     "venture": "Passive/Digital",
