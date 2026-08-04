@@ -1,5 +1,105 @@
 [
   {
+    "title": "EU AI Act High-Risk Classification Skill (compliance, June 2026)",
+    "cat": "Skill",
+    "venture": "General",
+    "desc": "A community skill mapped to EU AI Act Art. 6 (enforceable Aug 2, 2026) that assesses whether an agent deployment is high-risk under the new law \u2014 directly relevant to any retail or CPG brand deploying Claude agents in EU markets, where non-compliance triggers fines up to 3% of global revenue.",
+    "link": "https://github.com/topics/anthropic-skill",
+    "date": "2026-08-04",
+    "source": "auto",
+    "scanned_at": "2026-08-04T03:21:08.374692+00:00"
+  },
+  {
+    "title": "OpenClaw Release Automation Skills on SkillsMP (updated July 26, 2026)",
+    "cat": "Skill",
+    "venture": "General",
+    "desc": "The openclaw/openclaw skill set on SkillsMP was updated July 26 with release verification and changelog automation skills \u2014 part of a 384k-install skill family covering CI, PR triage, and autofix workflows useful for any technical ops stack.",
+    "link": "https://skillsmp.com/search",
+    "date": "2026-08-04",
+    "source": "auto",
+    "scanned_at": "2026-08-04T03:21:08.374692+00:00"
+  },
+  {
+    "title": "anthropics/knowledge-work-plugins \u2014 Sales & Customer Support plugins (updated Aug 3)",
+    "cat": "Tool / MCP",
+    "venture": "One Life",
+    "desc": "Anthropic's official knowledge-work-plugins repo (23k stars, updated Aug 3) includes a Sales plugin (HubSpot/Clay/ZoomInfo MCP connectors, call prep, pipeline review) and Customer Support plugin \u2014 both relevant to running a lean CPG or import brand's GTM ops with Claude.",
+    "link": "https://github.com/anthropics/knowledge-work-plugins",
+    "date": "2026-08-04",
+    "source": "auto",
+    "scanned_at": "2026-08-04T03:21:08.374692+00:00"
+  },
+  {
+    "title": "Agensi Subscription Skills Launch (launched ~June 30, live now)",
+    "cat": "Monetization play",
+    "venture": "Passive/Digital",
+    "desc": "Agensi launched subscription-priced skills delivered via MCP, so buyers always get the latest version automatically \u2014 creator has financial incentive to keep skills current, enabling a recurring revenue model on top of one-time skill sales. First platform to offer this model.",
+    "link": "https://www.agensi.io/learn/subscription-skills-launch",
+    "date": "2026-08-04",
+    "source": "auto",
+    "scanned_at": "2026-08-04T03:21:08.374692+00:00"
+  },
+  {
+    "title": "Agensi.io Marketplace Comparison post (published ~4 days ago)",
+    "cat": "Marketplace",
+    "venture": "Passive/Digital",
+    "desc": "Agensi published a fresh head-to-head comparison of 8 skills marketplaces (updated Aug 2026), revealing it is the only platform with creator payments (80/20 split) and an MCP-live-access Pro tier at $9/mo \u2014 the clearest current path to selling skills without giving away source code.",
+    "link": "https://www.agensi.io/learn/best-ai-agent-skills-marketplaces-2026",
+    "date": "2026-08-04",
+    "source": "auto",
+    "scanned_at": "2026-08-04T03:21:08.374692+00:00"
+  },
+  {
+    "title": "Agent37 Blog: 'How to Monetize Claude Code Skills' (updated ~2 weeks ago)",
+    "cat": "Monetization play",
+    "venture": "Passive/Digital",
+    "desc": "Freshly updated guide walking through hosted-access skill monetization at $3.99/mo infrastructure cost, emphasizing skill systems (intake \u2192 analysis \u2192 output \u2192 review chains) as the highest-value sellable format \u2014 directly applicable to building a CPG or retail ops skill stack as a product.",
+    "link": "https://www.agent37.com/blog/monetize-claude-code-skills",
+    "date": "2026-08-04",
+    "source": "auto",
+    "scanned_at": "2026-08-04T03:21:08.374692+00:00"
+  },
+  {
+    "title": "Agent37 Blog: '30 Skills Worth Hosting and Selling' (published ~2 weeks ago)",
+    "cat": "Monetization play",
+    "venture": "Passive/Digital",
+    "desc": "Agent37 published a curated list of 30 Claude skills explicitly framed as stable enough to host and monetize, spanning ops, finance, legal, and sales \u2014 with a 'vendor contract risk scanner' and policy-change workflow highlighted. Blueprint for packaging domain expertise as a hosted paid product.",
+    "link": "https://www.agent37.com/blog/best-claude-skills-in-2026-30-skills-worth-hosting-selling",
+    "date": "2026-08-04",
+    "source": "auto",
+    "scanned_at": "2026-08-04T03:21:08.374692+00:00"
+  },
+  {
+    "title": "SumUp Payment Integration Plugin (claude-plugins-official)",
+    "cat": "Tool / MCP",
+    "venture": "iVend",
+    "desc": "Listed in anthropics/claude-plugins-official, this plugin wires Claude to SumUp terminal and online checkout flows \u2014 relevant to unattended retail and vending point-of-sale automation.",
+    "link": "https://claudeskills.info/plugins/category/ecommerce/",
+    "date": "2026-08-04",
+    "source": "auto",
+    "scanned_at": "2026-08-04T03:21:08.374692+00:00"
+  },
+  {
+    "title": "NeonPanel E-Commerce Intelligence Suite (claude-plugins-community)",
+    "cat": "Tool / MCP",
+    "venture": "iVend",
+    "desc": "An officially listed community plugin in anthropics/claude-plugins-community: 8 specialist AI agents covering supply chain, inventory, marketing, accounting, forecasting, and financial analysis, connected to NeonPanel's MCP API (60+ tools) with OAuth2. Direct fit for vending/retail ops intelligence.",
+    "link": "https://claudeskills.info/plugins/category/ecommerce/",
+    "date": "2026-08-04",
+    "source": "auto",
+    "scanned_at": "2026-08-04T03:21:08.374692+00:00"
+  },
+  {
+    "title": "anthropics/skills repo \u2014 active issues & PRs, Aug 2026",
+    "cat": "Skill",
+    "venture": "General",
+    "desc": "The official Anthropic skills repo (166k stars) had new issues opened July 31 and is actively maintained, with Anthropic also publishing a separate reserved claude-plugins-official and claude-plugins-community marketplace updated Aug 3. Worth monitoring for any e-commerce or ops skill submissions that get merged.",
+    "link": "https://github.com/anthropics/skills",
+    "date": "2026-08-04",
+    "source": "auto",
+    "scanned_at": "2026-08-04T03:21:08.374692+00:00"
+  },
+  {
     "title": "claudeskillsmarket.com \u2014 37+ free community skills directory (active)",
     "cat": "Marketplace",
     "venture": "General",
